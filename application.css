@@ -1,0 +1,107 @@
+.top-container{
+    background-color: blue;
+    height: 13vh;
+}
+.top-sec-container{
+    background-color: gray;
+    height: 3vh;
+}
+.ibps-heading{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+     
+    /* padding: 10px; */
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 500;
+}
+.sub-heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: blue;
+}
+.title-name{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 30px;
+    width: 250px;
+}
+.title-sub-name{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 30px;
+     width: 250px;
+
+}
+.user-input{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    height: 30px;
+    width: 250px;
+}
+.white-title-name{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 30px;
+    width: 250px;
+}
+.white-title-sub-name{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 30px;
+    width: 250px;
+}
+.user-input-fullname{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    height: 30px;
+    width: 250px;
+}
+.title-name-alt{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 45px;
+    width: 250px;
+}
+
+.title-sub-name-alt{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 45px;
+     width: 250px;
+
+}
+.white-title-name-alt{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 45px;
+    width: 250px;
+}
+.white-title-sub-name-alt{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    height: 45px;
+    width: 250px;
+}
